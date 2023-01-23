@@ -6,7 +6,7 @@ To run the program, simply execute the guess_game.py script in a Python environm
 
 ## Examples
 ### Easy level
-```
+```py
 $ python guess_game.py
  _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____
 |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -27,7 +27,7 @@ Make a guess: 37
 That is right the anwer was 37. you win.
 ```
 ### Hard level
-```
+```py
 $ python guess_game.py
  _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____
 |     |     |     |     |     |     |     |     |     |     |     |     |
